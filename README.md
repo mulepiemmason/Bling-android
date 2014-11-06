@@ -1,8 +1,8 @@
-<b>Bling</b>   Readme File
+<b>Bling</b> 
 
 Bling is a hybrid application for android platform that uses speech to text to update status to your favourite social networks.
 
-Technolgy Stack
+<b>Technolgy Stack</b>
 
 Apache Cordova / Phonegap
 Eclipse
@@ -11,7 +11,7 @@ HTML5, CSS3, JavaScript
 Ant
 Node.js
 
-SET UP
+<b>SET UP</b>
 
 To  set up this project in your machines follow the steps given below:
 
@@ -51,4 +51,4 @@ DONE!!!!
 
 You are now good to go !! 
 
-Happy Coding!
+<b>Happy Coding!</b>
